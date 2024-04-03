@@ -1,4 +1,4 @@
-module main.go
+module CurrencyConverter
 
 go 1.19
 
